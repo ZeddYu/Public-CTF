@@ -1,5 +1,5 @@
 # Public-CTF
-Collect public CTF source code repo
+Collect public CTF source code repo. PR is welcome.
 
 - [Public-CTF](#public-ctf)
   * [2019](#2019)
