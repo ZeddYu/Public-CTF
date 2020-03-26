@@ -9,6 +9,7 @@ Collect public CTF source code repo. PR is welcome.
     + [36C3 hxp CTF](#36c3-hxp-ctf)
     + [BSidesSF CTF](#BSidesSF-CTF)
     + [zer0pts CTF](#zer0pts-CTF)
+    + [FireShell CTF](#FireShell-CTF)
 
 
 ## 2019
@@ -27,3 +28,6 @@ All: https://github.com/BSidesSF/ctf-2020-release
 
 ### zer0pts CTF
 All: https://gitlab.com/zer0pts/zer0pts-ctf-2020
+
+### FireShell CTF
+Partial: https://github.com/alissonbezerra/fireshell-ctf-2020
