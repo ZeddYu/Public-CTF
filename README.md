@@ -20,10 +20,43 @@ Collect public CTF source code repo. PR is welcome.
     + [BSidesSF CTF](#bsidessf-ctf)
     + [zer0pts CTF](#zer0pts-ctf)
     + [FireShell CTF](#fireshell-ctf)
+    
+## 2014
+### HITCON CTF
+Partial Web: https://github.com/orangetw/My-CTF-Web-Challenges/tree/master/hitcon-ctf-2014
++  PUSHIN CAT
++  PY4H4SHER
++  LEENODE
+
+## 2015
+### HITCON CTF
+Partial Web: https://github.com/orangetw/My-CTF-Web-Challenges/tree/master/hitcon-ctf-2015
++  babyfirst
++  giraffe's-coffee
++  lalala
++  nanana
++  use-after-flee
+
+## 2016
+### HITCON CTF
+Partial Web: https://github.com/orangetw/My-CTF-Web-Challenges/tree/master/hitcon-ctf-2016
++  angry boy
++  angry seam
++  babytrick
++  leaking
++  papapa
 
 ## 2017
 ### Google CTF
 All(Quals & Final): https://github.com/google/google-ctf/tree/master/2017
+
+### HITCON CTF
+Partial Web: https://github.com/orangetw/My-CTF-Web-Challenges/tree/master/hitcon-ctf-2017
++  baby^h-master-php-2017
++  babyfirst-revenge-v2
++  babyfirst-revenge
++  sql-so-hard
++  ssrfme
 
 ### 0CTF
 Partial Final: https://github.com/l4wio/CTF-challenges-by-me/tree/master/0ctf_final-2017
@@ -36,6 +69,13 @@ All(Quals & Final & Beginner): https://github.com/google/google-ctf/tree/master/
 
 ### Code Breaking
 All: https://github.com/phith0n/code-breaking
+
+### HITCON CTF
+Partial Web: https://github.com/orangetw/My-CTF-Web-Challenges/tree/master/hitcon-ctf-2018
++  baby-cake
++  oh-my-raddit
++  one-line-php-challenge
++  why-so-serials
 
 ### BCTF
 All: https://github.com/blue-lotus/BCTF2018
@@ -52,6 +92,14 @@ Final Partial Web: https://github.com/l4wio/CTF-challenges-by-me/tree/master/0ct
 ## 2019
 ### Google CTF
 All(Quals & Final & Beginner): https://github.com/google/google-ctf/tree/master/2019
+
+### HITCON CTF
+Partial Web: https://github.com/orangetw/My-CTF-Web-Challenges/tree/master/hitcon-ctf-2019
++  bounty-pl33z
++  buggy-net
++  gogo-powersql
++  luatic
++  virtual-public-network
 
 ### balsn ctf
 All: https://github.com/balsn/balsn-ctf-2019
