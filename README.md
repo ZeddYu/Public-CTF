@@ -104,6 +104,9 @@ Partial Web: https://github.com/orangetw/My-CTF-Web-Challenges/tree/master/hitco
 ### balsn ctf
 All: https://github.com/balsn/balsn-ctf-2019
 
+### N1CTF
+Partial: https://github.com/Nu1LCTF/n1ctf-2019
+
 ### de1 ctf
 All: https://github.com/De1ta-team/De1CTF2019
 
