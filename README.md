@@ -24,6 +24,7 @@ Collect public CTF source code repo. PR is welcome.
     + [HITCON CTF](#hitcon-ctf-5)
     + [Volga CTF](#volga-ctf-1)
     + [balsn ctf](#balsn-ctf)
+    + [XNUCA CTF](#xnuca-ctf)
     + [N1CTF](#n1ctf)
     + [de1 ctf](#de1-ctf)
     + [SU CTF](#su-ctf)
@@ -122,6 +123,10 @@ Partial Web: https://github.com/BlackFan/ctfs/tree/master/volgactf_2019_quals
 
 ### balsn ctf
 All: https://github.com/balsn/balsn-ctf-2019
+
+### XNUCA CTF
+All Quals: https://github.com/NeSE-Team/OurChallenges/tree/master/XNUCA2019Qualifier
+Partial Final: https://github.com/NeSE-Team/OurChallenges/tree/master/XNUCA2019Final/awd1_with_exp
 
 ### N1CTF
 Partial: https://github.com/Nu1LCTF/n1ctf-2019
