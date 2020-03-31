@@ -135,3 +135,6 @@ All: https://gitlab.com/zer0pts/zer0pts-ctf-2020
 
 ### FireShell CTF
 Partial: https://github.com/alissonbezerra/fireshell-ctf-2020
+
+### Volga CTF
+Partial Web: https://github.com/BlackFan/ctfs/tree/master/volgactf_2020_quals
