@@ -36,6 +36,7 @@ Collect public CTF source code repo. PR is welcome.
     + [Volga CTF](#volga-ctf-2)
     + [TAMU CTF](#tamu-ctf)
     + [ByteBandits CTF](#bytebandits-ctf)
+    + [Plaid CTF](#Plaid-CTF)
     
 ## 2014
 ### HITCON CTF
@@ -159,4 +160,7 @@ Partial Web: https://github.com/BlackFan/ctfs/tree/master/volgactf_2020_quals
 All: https://github.com/tamuctf/TAMUctf-2020
 
 ### ByteBandits CTF
-https://github.com/ByteBandits/bbctf-2020
+All: https://github.com/ByteBandits/bbctf-2020
+
+### Plaid CTF
+Partial Web: https://github.com/ZeddYu/Plaid-CTF-2020-Web
