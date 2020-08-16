@@ -1,6 +1,3 @@
-# Public-CTF
-Collect public CTF source code repo. PR is welcome.
-
 - [Public-CTF](#public-ctf)
   * [2014](#2014)
     + [HITCON CTF](#hitcon-ctf)
@@ -41,6 +38,9 @@ Collect public CTF source code repo. PR is welcome.
     + [Pwn2Win CTF](#pwn2win-ctf)
     + [RedPwn CTF](#redpwn-ctf)
     + [In CTF](#in-ctf)
+    + [De1 CTF](#de1-ctf)
+    + [SCTF](#sctf)
+    + [WM CTF](#wm-ctf)
     
 ## 2014
 ### HITCON CTF
@@ -180,3 +180,14 @@ All: https://github.com/redpwn/redpwnctf-2020-challenges
 
 ### In CTF
 All: https://github.com/teambi0s/InCTFi/tree/master/2020
+
+### De1 CTF
+(Only writeup)
+All: https://github.com/De1ta-team/De1CTF2020
+
+### SCTF
+All: https://github.com/SycloverSecurity/SCTF2020
+
+### WM CTF
+(Only writeup)
+All: https://github.com/wm-team/WMCTF2020-WriteUp
