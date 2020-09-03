@@ -193,5 +193,5 @@ All: https://github.com/SycloverSecurity/SCTF2020
 (Only writeup)
 All: https://github.com/wm-team/WMCTF2020-WriteUp
 
-### Fwrod CTF
+### Fword CTF
 Partial: https://github.com/kahla-sec/FwordCTF-2020
