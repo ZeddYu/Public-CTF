@@ -41,6 +41,7 @@
     + [De1 CTF](#de1-ctf)
     + [SCTF](#sctf)
     + [WM CTF](#wm-ctf)
+    + [Fword CTF](#fword-ctf)
     
 ## 2014
 ### HITCON CTF
@@ -191,3 +192,6 @@ All: https://github.com/SycloverSecurity/SCTF2020
 ### WM CTF
 (Only writeup)
 All: https://github.com/wm-team/WMCTF2020-WriteUp
+
+### Fwrod CTF
+Partial: https://github.com/kahla-sec/FwordCTF-2020
