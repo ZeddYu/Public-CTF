@@ -42,6 +42,7 @@
     + [SCTF](#sctf)
     + [WM CTF](#wm-ctf)
     + [Fword CTF](#fword-ctf)
+    + [ALLES CTF](#alles-ctf)
     
 ## 2014
 ### HITCON CTF
@@ -195,3 +196,6 @@ All: https://github.com/wm-team/WMCTF2020-WriteUp
 
 ### Fword CTF
 Partial: https://github.com/kahla-sec/FwordCTF-2020
+
+### ALLES CTF
+Partial: https://github.com/allesctf/ALLESCTF2020
