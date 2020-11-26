@@ -45,6 +45,7 @@
   * [Nu1L CTF](#nu1l-ctf)
   * [X-NUCA CTF](#x-nuca-ctf)
   * [KipodAfterFree CTF](#kipodafterfree-ctf)
+  * [Hacku.lu CTF](#hack.lu-ctf)
     
 ## 2014
 ### HITCON CTF
@@ -210,3 +211,6 @@ All: https://github.com/NeSE-Team/XNUCA2020Qualifier
 
 ### KipodAfterFree CTF
 Partial: https://github.com/KipodAfterFree
+
+### Hack.lu CTF
+Partial Web: https://github.com/pspaul/ctf-challenges
