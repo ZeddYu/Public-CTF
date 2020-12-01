@@ -218,3 +218,4 @@ Partial Web: https://github.com/pspaul/ctf-challenges
 
 ### HITCON CTF
 🍊 oShell & oStyle & Return of Use-After-Flee: https://github.com/orangetw/My-CTF-Web-Challenges#oShell
+beats & lucifer & MichaelStorage: https://github.com/scwuaptx/CTF/tree/master/2020-writeup/hitcon
