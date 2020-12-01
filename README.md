@@ -46,6 +46,7 @@
   * [X-NUCA CTF](#x-nuca-ctf)
   * [KipodAfterFree CTF](#kipodafterfree-ctf)
   * [Hacku.lu CTF](#hacklu-ctf)
+  * [HITCON CTF](#hitcon-ctf)
     
 ## 2014
 ### HITCON CTF
