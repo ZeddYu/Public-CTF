@@ -48,6 +48,7 @@
   * [Hack.lu CTF](#hacklu-ctf)
   * [HITCON CTF](#hitcon-ctf-6)
   * [Perfect Blue CTF](#perfectblue-ctf)
+  * [Harekaze mini CTF](#harekaze-mini-ctf)
     
 ## 2014
 ### HITCON CTF
@@ -223,3 +224,6 @@ beats & lucifer & MichaelStorage: https://github.com/scwuaptx/CTF/tree/master/20
 
 ### PerfectBlue CTF
 All: https://github.com/perfectblue/pbctf-2020-challs
+
+### Harekaze mini CTF
+All: https://github.com/TeamHarekaze/harekaze-mini-ctf-2020-challenges-public
