@@ -49,6 +49,8 @@
   * [HITCON CTF](#hitcon-ctf-6)
   * [Perfect Blue CTF](#perfectblue-ctf)
   * [Harekaze mini CTF](#harekaze-mini-ctf)
+- [2021](#2021)
+  * [just CTF](#just-ctf)
     
 ## 2014
 ### HITCON CTF
@@ -227,3 +229,7 @@ All: https://github.com/perfectblue/pbctf-2020-challs
 
 ### Harekaze mini CTF
 All: https://github.com/TeamHarekaze/harekaze-mini-ctf-2020-challenges-public
+
+## 2021
+### just CTF
+All: https://github.com/justcatthefish/justctf-2020/
