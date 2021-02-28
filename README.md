@@ -51,6 +51,7 @@
   * [Harekaze mini CTF](#harekaze-mini-ctf)
 - [2021](#2021)
   * [just CTF](#just-ctf)
+  * [Aero CTF](#aero-ctf)
     
 ## 2014
 ### HITCON CTF
@@ -233,3 +234,6 @@ All: https://github.com/TeamHarekaze/harekaze-mini-ctf-2020-challenges-public
 ## 2021
 ### just CTF
 All: https://github.com/justcatthefish/justctf-2020/
+
+### Aero CTF
+All: https://github.com/AeroCTF/aero-ctf-2021
