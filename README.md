@@ -47,12 +47,12 @@
   * [KipodAfterFree CTF](#kipodafterfree-ctf)
   * [Hack.lu CTF](#hacklu-ctf)
   * [HITCON CTF](#hitcon-ctf-6)
-  * [Perfect Blue CTF](#perfectblue-ctf)
+  * [PerfectBlue CTF](#perfectblue-ctf)
   * [Harekaze mini CTF](#harekaze-mini-ctf)
 - [2021](#2021)
   * [just CTF](#just-ctf)
   * [Aero CTF](#aero-ctf)
-  * [zer0pts CTF](#zer0pts-ctf)
+  * [zer0pts CTF](#zer0pts-ctf-1)
     
 ## 2014
 ### HITCON CTF
