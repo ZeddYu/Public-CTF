@@ -52,6 +52,7 @@
 - [2021](#2021)
   * [just CTF](#just-ctf)
   * [Aero CTF](#aero-ctf)
+  * [zer0pts CTF](#zer0pts-ctf)
     
 ## 2014
 ### HITCON CTF
@@ -237,3 +238,6 @@ All: https://github.com/justcatthefish/justctf-2020/
 
 ### Aero CTF
 All: https://github.com/AeroCTF/aero-ctf-2021
+
+### zer0pts CTF
+All: https://gitlab.com/zer0pts/zer0ptsctf-2021-challenges/
