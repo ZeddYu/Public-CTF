@@ -53,6 +53,7 @@
   * [just CTF](#just-ctf)
   * [Aero CTF](#aero-ctf)
   * [zer0pts CTF](#zer0pts-ctf-1)
+  * [Volga CTF](#volga-ctf-3)
     
 ## 2014
 ### HITCON CTF
@@ -241,3 +242,6 @@ All: https://github.com/AeroCTF/aero-ctf-2021
 
 ### zer0pts CTF
 All: https://gitlab.com/zer0pts/zer0ptsctf-2021-challenges/
+
+### Volga CTF
+Particial Web: https://github.com/BlackFan/ctfs/tree/master/volgactf_2021_quals
