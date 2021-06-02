@@ -54,6 +54,7 @@
   * [Aero CTF](#aero-ctf)
   * [zer0pts CTF](#zer0pts-ctf-1)
   * [Volga CTF](#volga-ctf-3)
+  * [Pwn2win CTF](#pwn2win-ctf)
     
 ## 2014
 ### HITCON CTF
@@ -245,3 +246,7 @@ All: https://gitlab.com/zer0pts/zer0ptsctf-2021-challenges/
 
 ### Volga CTF
 Particial Web: https://github.com/BlackFan/ctfs/tree/master/volgactf_2021_quals
+
+### Pwn2win CTF
+Web:
+Small Talk: https://github.com/vrechson/challenges/tree/master/pwn2win/2021/web-Small-Talk/deploy
