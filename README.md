@@ -55,6 +55,7 @@
   * [zer0pts CTF](#zer0pts-ctf-1)
   * [Volga CTF](#volga-ctf-3)
   * [Pwn2win CTF](#pwn2win-ctf)
+  * [We CTF](#we-ctf)
     
 ## 2014
 ### HITCON CTF
@@ -250,3 +251,6 @@ Particial Web: https://github.com/BlackFan/ctfs/tree/master/volgactf_2021_quals
 ### Pwn2win CTF
 Web:
 Small Talk: https://github.com/vrechson/challenges/tree/master/pwn2win/2021/web-Small-Talk/deploy
+
+### We CTF
+All:https://github.com/wectf/2021
