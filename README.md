@@ -57,6 +57,7 @@
   * [Pwn2win CTF](#pwn2win-ctf)
   * [We CTF](#we-ctf)
   * [RedPwn CTF](#redpwn-ctf-1)
+  * [RaR CTF](#rar-ctf)
     
 ## 2014
 ### HITCON CTF
@@ -258,3 +259,6 @@ All:https://github.com/wectf/2021
 
 ### RedPwn CTF
 All:https://github.com/redpwn/redpwnctf-2021-challenges
+
+### RaRCTF
+All: https://github.com/TheWinRaRs/RaRCTF2021-Challenges-Public
