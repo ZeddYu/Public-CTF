@@ -57,8 +57,8 @@
   * [Pwn2win CTF](#pwn2win-ctf)
   * [We CTF](#we-ctf)
   * [RedPwn CTF](#redpwn-ctf-1)
-  * [RaR CTF](#rar-ctf)
-  * [cor CTF](#cor-ctf)
+  * [RaR CTF](#rarctf)
+  * [cor CTF](#corctf)
     
 ## 2014
 ### HITCON CTF
