@@ -58,6 +58,7 @@
   * [We CTF](#we-ctf)
   * [RedPwn CTF](#redpwn-ctf-1)
   * [RaR CTF](#rar-ctf)
+  * [cor CTF](#cor-ctf)
     
 ## 2014
 ### HITCON CTF
@@ -262,3 +263,6 @@ All:https://github.com/redpwn/redpwnctf-2021-challenges
 
 ### RaRCTF
 All: https://github.com/TheWinRaRs/RaRCTF2021-Challenges-Public
+
+### corCTF
+All: https://github.com/Crusaders-of-Rust/corCTF-2021-public-challenge-archive
